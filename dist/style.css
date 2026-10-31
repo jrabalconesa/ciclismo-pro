@@ -14,3 +14,5 @@ nav a .aia-wheel{width:34px;height:34px}
 .action .section-icon{width:38px;height:38px}
 .action .aia-wheel{width:44px;height:44px}
 @media(max-width:760px){.action{gap:12px}.action .symbol{width:50px;height:50px}}
+
+.section-icon.brand-bike{object-fit:contain}nav a.active .brand-bike{filter:brightness(0) invert(1)}

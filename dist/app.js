@@ -3,6 +3,7 @@ const $=s=>document.querySelector(s), main=$('#main'), C=window.CP_CONTENT, KEY=
 const nav=[['inicio','⌂','Inicio'],['bicicletas','♧','Mis bicicletas y equipo'],['taller','⚒','Taller'],['aprender','AIA','Aprender · AIA'],['salidas','↗','Salidas y progreso'],['biblioteca','▤','Biblioteca'],['espacio','◉','Mi espacio']];
 // Shared section icons: vector paths inherit the existing app palette.
 function sectionIcon(id){
+if(id==='bicicletas')return '<img class="section-icon brand-bike" src="assets/section-bike-logo.png" alt="" aria-hidden="true">';
 const shapes={
 inicio:'<path d="M6 22 24 7l18 15M11 19v22h26V19M20 41V28h8v13"/>',
 bicicletas:'<circle cx="11" cy="33" r="8"/><circle cx="37" cy="33" r="8"/><path d="m11 33 9-19 12 19H11l13-14h8M16 14h9M37 33l-8-23h-5"/>',
