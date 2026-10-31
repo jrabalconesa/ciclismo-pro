@@ -5,15 +5,16 @@
   "site_project_id": "appgprj_6ae5081518148191ab8033062cc815da",
   "files": {
     "dist/pro-transfer.js": "9332a8b0d708a3b642a159af740e2bb8da321b23d0d715ab8681516989971913",
-    "dist/style.css": "61f9f4b3215267838122ef8600f17fb5987709fc62354d756f6d627bf5dbb3a6",
+    "dist/style.css": "807a436875a4fb3d1101a8a21aa1b27063cac5dd28044ebf0314a26846526ee1",
     "dist/content.js": "251a4603fde70c46fad20aa5031ab423c951f7d88124ce45a490db8cd65e3157",
-    "dist/assets/trek-jose-portada.webp": "7981d89543adf9a92d6d19e8de472932c674a97e642275bc519f039495aa0404"
+    "dist/assets/trek-jose-portada.webp": "7981d89543adf9a92d6d19e8de472932c674a97e642275bc519f039495aa0404",
+    "dist/assets/section-bike-logo.png": "4b9502bb5c7e306afb537b8ca3e0cc7d734844c96ac240c815ad2bce4453fa15"
   },
   "policy": "Keep docs and resources.json private on Sites. Public copy uses private Site library links. Never copy docs, personal text or Library identifiers to GitHub. Preserve audience.",
   "platform_files": {
     "dist/app.js": {
-      "site_sha256": "dbcd96af752b43699ad7672f305033a0acfb04ecde7841a890b9b3336422673f",
-      "github_sha256": "b9dd16b620a514de35bf290f58071394383ecdfb5e03e2701e4fcbe25f2c2407",
+      "site_sha256": "8ffcf085d4b45650ad2a88b7c668665d2a426c5f14d64a55221764e28d5d9b1e",
+      "github_sha256": "81011d59fb1e8747b6034fd3a3d25861584fd88ef65cd65815a57cb9f7479827",
       "policy": "Private-source/public-adapter pair. Reapply scripts/prepare-public.py; never copy private source verbatim to GitHub."
     },
     "dist/index.html": {
