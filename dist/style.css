@@ -16,3 +16,14 @@ nav a .aia-wheel{width:34px;height:34px}
 @media(max-width:760px){.action{gap:12px}.action .symbol{width:50px;height:50px}}
 
 .section-icon.brand-bike{object-fit:contain}nav a.active .brand-bike{filter:brightness(0) invert(1)}
+
+/* Compact section icons for the existing mobile layout. */
+@media(max-width:760px){
+nav a{gap:10px}
+nav a .nav-icon{width:30px;min-width:30px;height:30px}
+nav a .section-icon{width:26px;height:26px}
+nav a .aia-wheel{width:30px;height:30px}
+.action .symbol{width:44px;height:44px}
+.action .section-icon{width:30px;height:30px}
+.action .aia-wheel{width:36px;height:36px}
+}
