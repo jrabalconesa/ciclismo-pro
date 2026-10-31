@@ -8,5 +8,22 @@
     "dist/style.css": "a8931fcfaef0eb1e629b91fa8bb565ef1c85f10cd8d03acb8d2151c403009b35",
     "dist/content.js": "251a4603fde70c46fad20aa5031ab423c951f7d88124ce45a490db8cd65e3157"
   },
-  "policy": "Keep docs and resources.json private on Sites. Public copy uses private Site library links. Never copy docs, personal text or Library identifiers to GitHub. Preserve audience."
+  "policy": "Keep docs and resources.json private on Sites. Public copy uses private Site library links. Never copy docs, personal text or Library identifiers to GitHub. Preserve audience.",
+  "platform_files": {
+    "dist/app.js": {
+      "site_sha256": "dc8ed8fdc8d613d1d3a03a53643a3b162b72d4591e3e3fb52bad1d0868432883",
+      "github_sha256": "402570ffb48331f404c5fafd4e8ec0b49bbce076317acadb6e471f16c961face",
+      "policy": "Private-source/public-adapter pair. Reapply scripts/prepare-public.py; never copy private source verbatim to GitHub."
+    },
+    "dist/index.html": {
+      "site_sha256": "89a006ce0c281d014d3c95a24c8a2bef92ad1dcf2710ad111bc44952b6a6a80a",
+      "github_sha256": "7ed67fd659f6f6dcca26e8cba53d44412dcd8d249d651901d6800dbc8ef9a668",
+      "policy": "Private-source/public-adapter pair. Reapply scripts/prepare-public.py; never copy private source verbatim to GitHub."
+    },
+    "dist/resources.json": {
+      "site_sha256": "9c7ca739cae595638dd64189bf21a45777a25773104f4177b4a914d3b28c1d40",
+      "github_sha256": "df93e7cad558222ec98b2e2460e321267a0871c253aad5e61191a8d4443b5b35",
+      "policy": "Private-source/public-adapter pair. Reapply scripts/prepare-public.py; never copy private source verbatim to GitHub."
+    }
+  }
 }
