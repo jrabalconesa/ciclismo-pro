@@ -5,14 +5,15 @@
   "site_project_id": "appgprj_6ae5081518148191ab8033062cc815da",
   "files": {
     "dist/pro-transfer.js": "9332a8b0d708a3b642a159af740e2bb8da321b23d0d715ab8681516989971913",
-    "dist/style.css": "a8931fcfaef0eb1e629b91fa8bb565ef1c85f10cd8d03acb8d2151c403009b35",
-    "dist/content.js": "251a4603fde70c46fad20aa5031ab423c951f7d88124ce45a490db8cd65e3157"
+    "dist/style.css": "61f9f4b3215267838122ef8600f17fb5987709fc62354d756f6d627bf5dbb3a6",
+    "dist/content.js": "251a4603fde70c46fad20aa5031ab423c951f7d88124ce45a490db8cd65e3157",
+    "dist/assets/trek-jose-portada.webp": "7981d89543adf9a92d6d19e8de472932c674a97e642275bc519f039495aa0404"
   },
   "policy": "Keep docs and resources.json private on Sites. Public copy uses private Site library links. Never copy docs, personal text or Library identifiers to GitHub. Preserve audience.",
   "platform_files": {
     "dist/app.js": {
-      "site_sha256": "dc8ed8fdc8d613d1d3a03a53643a3b162b72d4591e3e3fb52bad1d0868432883",
-      "github_sha256": "402570ffb48331f404c5fafd4e8ec0b49bbce076317acadb6e471f16c961face",
+      "site_sha256": "dbcd96af752b43699ad7672f305033a0acfb04ecde7841a890b9b3336422673f",
+      "github_sha256": "b9dd16b620a514de35bf290f58071394383ecdfb5e03e2701e4fcbe25f2c2407",
       "policy": "Private-source/public-adapter pair. Reapply scripts/prepare-public.py; never copy private source verbatim to GitHub."
     },
     "dist/index.html": {
@@ -25,5 +26,6 @@
       "github_sha256": "df93e7cad558222ec98b2e2460e321267a0871c253aad5e61191a8d4443b5b35",
       "policy": "Private-source/public-adapter pair. Reapply scripts/prepare-public.py; never copy private source verbatim to GitHub."
     }
-  }
+  },
+  "updated": "2026-10-31"
 }
