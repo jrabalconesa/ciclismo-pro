@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Ciclismo PRO",
+  "short_name": "Ciclismo PRO",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4c5fd5",
+  "icons": [
+    {
+      "src": "https://jrabalconesa.github.io/guitarra-pro/app-icons/ciclismo/logo-192-v20261031.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://jrabalconesa.github.io/guitarra-pro/app-icons/ciclismo/logo-512-v20261031.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://jrabalconesa.github.io/guitarra-pro/app-icons/ciclismo/logo-maskable-512-v20261031.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

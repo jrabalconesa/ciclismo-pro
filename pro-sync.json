@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "app": "ciclismo-pro",
+  "repository": "jrabalconesa/ciclismo-pro",
+  "site_project_id": "appgprj_6ae5081518148191ab8033062cc815da",
+  "files": {
+    "dist/pro-transfer.js": "9332a8b0d708a3b642a159af740e2bb8da321b23d0d715ab8681516989971913",
+    "dist/style.css": "a8931fcfaef0eb1e629b91fa8bb565ef1c85f10cd8d03acb8d2151c403009b35",
+    "dist/content.js": "251a4603fde70c46fad20aa5031ab423c951f7d88124ce45a490db8cd65e3157"
+  },
+  "policy": "Keep docs and resources.json private on Sites. Public copy uses private Site library links. Never copy docs, personal text or Library identifiers to GitHub. Preserve audience."
+}
